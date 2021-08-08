@@ -1,0 +1,13 @@
+Anotações do projeto clone Netflix
+
+Instalar VSCode
+
+- Criar as pastas de img, style e js
+- Instalar extensão Live Server para visualização dinâmica de alteração de página
+- Instalar extensão Auto Rename Tag
+
+
+Flex
+Pesquisar sobre css wrapper e containeres
+
+Aproveite dos truques para separar os componentes
